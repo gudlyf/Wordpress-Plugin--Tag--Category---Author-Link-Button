@@ -4,7 +4,7 @@ Plugin Name: Tag, Category & Author Link Button
 Plugin URI: http://cliqueclack.com/code/2010/03/05/wordpress-plugin-tag-category-and-author-link-button/
 Description: New TinyMCE button to create tag, category or author link to selected text.
 Author: Keith McDuffee
-Version: 1.1
+Version: 1.1.1
 Author URI: http://cliqueclack.com
 */
 
