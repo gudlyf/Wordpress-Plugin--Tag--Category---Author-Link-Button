@@ -3,7 +3,7 @@ Contributors: Keith McDuffee (Gudlyf)
 Donate link: http://astore.amazon.com/cliqueclack-20
 Tags: admin, editors, administration, enhancement, tinymce, tags, categories, authors, links
 Requires at least: 2.6.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 Adds a new button to the post and page editing TinyMCE toolbar (though only in
 visual/rich editing mode) for creating tag, category and author links to highlighted text.
