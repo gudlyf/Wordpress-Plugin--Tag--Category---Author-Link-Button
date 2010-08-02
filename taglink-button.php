@@ -27,7 +27,7 @@ function register_taglink_button($buttons) {
  
 // Load the TinyMCE plugin : editor_plugin.js (wp2.5)
 function add_taglink_tinymce_plugin($plugin_array) {
-	$plugin_array['taglink'] = plugins_url('taglink-button/tinymce/plugins/taglink/editor_plugin.js');
+	$plugin_array['taglink'] = plugins_url('tag-category-author-link-button/tinymce/plugins/taglink/editor_plugin.js');
 	return $plugin_array;
 }
 

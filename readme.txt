@@ -24,3 +24,4 @@ change one simple line in one of the source files.
 == ChangeLog ==
 
 1.0 - Initial release
+1.1 - Fixed path to plugin location
