@@ -18,10 +18,11 @@ or links to authors (only those who are currently set as "contributor" or higher
 
 Activate in plugins admin screen. No options available.
 
-If you wish to make all users available for liking in the "Authors" submenu, you'll need to
+If you wish to make all users available for linking in the "Authors" submenu, you'll need to
 change one simple line in one of the source files.
 
 == ChangeLog ==
 
-1.0 - Initial release
-1.1 - Fixed path to plugin location
+1.0 - Initial release.
+
+1.1 - Fixed path to plugin location.
